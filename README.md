@@ -15,7 +15,7 @@ How to use:
 
 <br />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&customColorList=12,20,24&text=CYBER%20OPS%20LAB&fontColor=00F5FF&fontSize=42&animation=twinkling&fontAlignY=35&desc=Monitoring%20%7C%20Automation%20%7C%20Infrastructure%20%7C%20Observability&descAlignY=58&descSize=15" alt="Cyber Ops Lab Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&customColorList=12,20,24&text=DEV%20OPS%20LAB&fontColor=00F5FF&fontSize=42&animation=twinkling&fontAlignY=35&desc=Monitoring%20%7C%20Automation%20%7C%20Infrastructure%20%7C%20Observability&descAlignY=58&descSize=15" alt="Cyber Ops Lab Banner" />
 
 <br />
 
