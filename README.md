@@ -9,7 +9,7 @@ How to use:
 
 <div align="center">
 
-# ⚡ SHAYNE BALDUF // CYBER OPS LAB ⚡
+# ⚡ SHAYNE BALDUF // DEV OPS LAB ⚡
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=26&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&width=850&lines=IT+Operations+%7C+Monitoring+%7C+Automation;SolarWinds+%7C+Datadog+%7C+Proxmox+%7C+Docker;Event+Correlation+%7C+Notification+Systems;Building+the+Future+One+Lab+at+a+Time" alt="Typing SVG" />
 
