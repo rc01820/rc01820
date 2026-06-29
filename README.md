@@ -21,6 +21,7 @@ How to use:
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" alt="Coding animation" />
 
+![LAB](images/lab.png)
 <br />
 <br />
 
