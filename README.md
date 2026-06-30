@@ -19,7 +19,7 @@ How to use:
 
 <br />
 
-![LAB](images/lab.png)
+![LAB](images/lab2.png)
 
 <br />
 <br />
